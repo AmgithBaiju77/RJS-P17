@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rjs-program17/static/css/main.619746b6.css",
+    "main.js": "/rjs-program17/static/js/main.c0d698f9.js",
+    "index.html": "/rjs-program17/index.html",
+    "main.619746b6.css.map": "/rjs-program17/static/css/main.619746b6.css.map",
+    "main.c0d698f9.js.map": "/rjs-program17/static/js/main.c0d698f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.619746b6.css",
+    "static/js/main.c0d698f9.js"
+  ]
+}
